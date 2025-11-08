@@ -1,0 +1,2 @@
+Adding text to test Git.
+Adding text to more than one file.
