@@ -2,3 +2,4 @@
 This repository is for practicing Git basics.
 Hello Odin!
 Adding text to more than one file.
+Test writing commit message in VS Code.
